@@ -3,14 +3,14 @@
     "name": "Défi Wind 2022",
     "year": "2022",
     "fields": {
-        "Place": ["Pl."],
-        "Tally": ["Dossard"],
-        "HelmName": ["Nom Prénom"],
-        "Nat": ["Nat."],
-        "HelmSex": ["Sexe"],
-        "HelmAgeGroup": ["Catégorie"],
-        "Elapsed": ["TempsRun", "TempsRun1"],
-        "Points": ["PointsRun", "PointsRun1"]
+      "Place": ["Pl."],
+      "Tally": ["Dossard"],
+      "HelmName": ["Nom Prénom"],
+      "Nat": ["Nat."],
+      "HelmSex": ["Sexe"],
+      "HelmAgeGroup": ["Catégorie"],
+      "Elapsed": ["TempsRun", "TempsRun1"],
+      "Points": ["PointsRun", "PointsRun1"]
     },
     "races": [
       {
@@ -39,14 +39,14 @@
     "name": "Défi Wind 2023",
     "year": "2023",
     "fields": {
-        "Place": ["Pl."],
-        "Tally": ["Dossard"],
-        "HelmName": ["Nom Prénom"],
-        "Nat": ["Nat."],
-        "HelmSex": ["Sexe"],
-        "Class": ["Support"],
-        "HelmAgeGroup": ["Catégorie"],
-        "Elapsed": ["TempsRun1", "TempsRun2", "TempsRun3", "TempsRun 4"]
+      "Place": ["Pl."],
+      "Tally": ["Dossard"],
+      "HelmName": ["Nom Prénom"],
+      "Nat": ["Nat."],
+      "HelmSex": ["Sexe"],
+      "Class": ["Support"],
+      "HelmAgeGroup": ["Catégorie"],
+      "Elapsed": ["TempsRun1", "TempsRun2", "TempsRun3", "TempsRun 4"]
     },
     "races": [
       {
@@ -65,6 +65,15 @@
         "name": "Race 4",
         "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run4&page=results&contest=1&r=all&l=0"
       }
-    ]
+    ],
+    "persons": {
+        "10848": {
+          "HelmName": "CHAMBERS, ANDY",
+          "Nat": "United Kingdom",
+          "HelmSex": "M",
+          "Class": "Fin",
+          "HelmAgeGroup": "40-49M"
+        }
+    }
   }
 ]

@@ -1,5 +1,6 @@
 RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 1,27,486,"STALLMAN, SCOTTY",United Kingdom,M,Open,20-39M,00:36:50
+1,63,10848,"CHAMBERS, ANDY",United Kingdom,M,Fin,40-49M,00:40:16
 1,81,1273,"SKYE, John",United Kingdom,M,Fin,40-59M,00:41:49
 1,92,777,"LE MASURIER, CHRIS",United Kingdom,M,Open,40-59M,00:42:38
 1,141,1255,"SPRIGGS, NIGEL",United Kingdom,M,Fin,40-59M,00:45:08
@@ -51,6 +52,7 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 1,1062,842,"FARROW, NEIL",United Kingdom,M,Fin,40-59M,02:05:34
 2,21,486,"STALLMAN, SCOTTY",United Kingdom,M,Open,20-39M,00:33:53
 2,45,1273,"SKYE, John",United Kingdom,M,Fin,40-59M,00:35:47
+2,92,10848,"CHAMBERS, ANDY",United Kingdom,M,Fin,40-49M,00:39:02
 2,112,16,"WEGERER, FLORIAN",United Kingdom,M,Fin,20-39M,00:39:53
 2,134,960,"GIBSON, JENNA",United Kingdom,F,Open,17-30F,00:40:32
 2,154,777,"LE MASURIER, CHRIS",United Kingdom,M,Open,40-59M,00:41:19
@@ -122,6 +124,7 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 3,56,258,"DINSMORE, JAMES",United Kingdom,M,Open,40-59M,00:37:05
 3,69,1273,"SKYE, John",United Kingdom,M,Fin,40-59M,00:37:59
 3,90,248,"READ, ALICE",United Kingdom,F,Foil,17-30F,00:39:09
+3,95,10848,"CHAMBERS, ANDY",United Kingdom,M,Fin,40-49M,00:39:24
 3,107,481,"PETTIFER, SIMON",United Kingdom,M,Open,40-59M,00:39:45
 3,127,16,"WEGERER, FLORIAN",United Kingdom,M,Fin,20-39M,00:40:43
 3,135,777,"LE MASURIER, CHRIS",United Kingdom,M,Open,40-59M,00:40:57
@@ -192,6 +195,7 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 4,113,16,"WEGERER, FLORIAN",United Kingdom,M,Fin,20-39M,00:40:41
 4,131,258,"DINSMORE, JAMES",United Kingdom,M,Open,40-59M,00:41:36
 4,134,777,"LE MASURIER, CHRIS",United Kingdom,M,Open,40-59M,00:41:44
+4,137,10848,"CHAMBERS, ANDY",United Kingdom,M,Fin,40-49M,00:41:52
 4,143,486,"STALLMAN, SCOTTY",United Kingdom,M,Open,20-39M,00:42:05
 4,179,960,"GIBSON, JENNA",United Kingdom,F,Open,17-30F,00:43:21
 4,206,481,"PETTIFER, SIMON",United Kingdom,M,Open,40-59M,00:44:39
