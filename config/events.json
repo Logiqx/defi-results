@@ -46,7 +46,7 @@
         "HelmSex": ["Sexe"],
         "Class": ["Support"],
         "HelmAgeGroup": ["Catégorie"],
-        "Elapsed": ["TempsRun", "TempsRun1", "TempsRun2", "TempsRun3", "TempsRun4"]
+        "Elapsed": ["TempsRun1", "TempsRun2", "TempsRun3", "TempsRun 4"]
     },
     "races": [
       {
