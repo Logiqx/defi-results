@@ -1,42 +1,46 @@
 {
-  "2022": [
-    {
-      "name": "Race 1",
-      "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run1&page=results&contest=1&r=all&l=0"
-    },
-    {
-      "name": "Race 2",
-      "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run2bis&page=results&contest=1&r=all&l=0"
-    },
-    {
-      "name": "Race 3",
-      "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run3bis&page=results&contest=1&r=all&l=0"
-    },
-    {
-      "name": "Race 4",
-      "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run4bis&page=results&contest=1&r=all&l=0"
-    },
-    {
-      "name": "Race 5",
-      "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run5bis**&page=results&contest=1&r=all&l=0"
-    }
-  ],
-  "2023": [
-    {
-      "name": "Race 1",
-      "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run1&page=results&contest=1&r=all&l=0"
-    },
-    {
-      "name": "Race 2",
-      "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run2&page=results&contest=1&r=all&l=0"
-    },
-    {
-      "name": "Race 3",
-      "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run3&page=results&contest=1&r=all&l=0"
-    },
-    {
-      "name": "Race 4",
-      "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run4&page=results&contest=1&r=all&l=0"
-    }
-  ]
+  "2022": {
+    "races": [
+      {
+        "name": "Race 1",
+        "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run1&page=results&contest=1&r=all&l=0"
+      },
+      {
+        "name": "Race 2",
+        "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run2bis&page=results&contest=1&r=all&l=0"
+      },
+      {
+        "name": "Race 3",
+        "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run3bis&page=results&contest=1&r=all&l=0"
+      },
+      {
+        "name": "Race 4",
+        "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run4bis&page=results&contest=1&r=all&l=0"
+      },
+      {
+        "name": "Race 5",
+        "url": "https://my2.raceresult.com/203369/RRPublish/data/list?key=f014edc630db3ffc9814b6ed1850e86e&listname=Classements%7CClassement%20Run5bis**&page=results&contest=1&r=all&l=0"
+      }
+    ]
+  },
+  "2023": {
+    "races": [
+      {
+        "name": "Race 1",
+        "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run1&page=results&contest=1&r=all&l=0"
+      },
+      {
+        "name": "Race 2",
+        "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run2&page=results&contest=1&r=all&l=0"
+      },
+      {
+        "name": "Race 3",
+        "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run3&page=results&contest=1&r=all&l=0"
+      },
+      {
+        "name": "Race 4",
+        "url": "https://my3.raceresult.com/244942/RRPublish/data/list?key=7db84a31fa21f6af96856c692fbf2b94&listname=Classements%7CClassement%20Run4&page=results&contest=1&r=all&l=0"
+      }
+    ]
+  }
 }
