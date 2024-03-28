@@ -1,0 +1,341 @@
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
+1,6,69,"VONK, Jordy",Netherlands,M,20-29M,00:33:34,6.0
+1,9,388,"DALDORF, Ingmar",Netherlands,M,30-39M,00:34:08,9.0
+1,19,331,"WONDERGEM, Floris",Netherlands,M,16-19M,00:36:03,19.0
+1,24,9,"FRANS, Taty",Netherlands,M,30-39M,00:36:28,24.0
+1,29,1176,"WESTERA, Ethan",Netherlands,M,20-29M,00:37:27,29.0
+1,30,1193,"VAN DER STEEN, Benny",Netherlands,M,40-49M,00:37:31,30.0
+1,33,333,"CAUMONT, Christian",Netherlands,M,50-59M,00:37:53,33.0
+1,61,390,"KLAAIJSEN, Dennis",Netherlands,M,40-49M,00:41:01,61.0
+1,76,703,"VAN NOORD, Martijn",Netherlands,M,20-29M,00:41:56,76.0
+1,97,690,"VAN DER VEEN, Femke",Netherlands,F,17-30F,00:43:50,97.0
+1,114,1086,"DE BOER, Thewes",Netherlands,M,40-49M,00:44:52,114.0
+1,162,1153,"VAN WAAS, Eric",Netherlands,M,50-59M,00:47:31,162.0
+1,191,225,"VAN DER VEEN, Jelle",Netherlands,M,20-29M,00:49:23,191.0
+1,203,366,"BOSMAN, Joris",Netherlands,M,40-49M,00:49:53,203.0
+1,227,909,"VERMOEN, Marco",Netherlands,M,40-49M,00:52:01,227.0
+1,235,510,"BUIJS, Joris",Netherlands,M,50-59M,00:52:35,235.0
+1,271,417,"HOOGENDAM, Fabienne",Netherlands,F,17-30F,00:54:40,271.0
+1,310,473,"BLANKENSTEIN, Eric",Netherlands,M,50-59M,00:56:30,310.0
+1,311,1047,"BIJLSMA, Jasper",Netherlands,M,20-29M,00:56:33,311.0
+1,320,172,"VENTE, Johan",Netherlands,M,50-59M,00:57:09,320.0
+1,384,643,"VISKER, Alwin",Netherlands,M,50-59M,01:01:03,384.0
+1,389,867,"HOMMEL, Guido",Netherlands,M,40-49M,01:01:16,389.0
+1,429,453,"SCHILPEROORT, Ruud",Netherlands,M,40-49M,01:03:29,429.0
+1,436,431,"BIJLSMA, Sipke",Netherlands,M,50-59M,01:04:00,436.0
+1,503,387,"VERMEULEN, Jan Willem",Netherlands,M,50-59M,01:10:23,503.0
+1,518,1263,"VAN MUISWINKEL, Kees",Netherlands,M,50-59M,01:12:02,518.0
+1,574,310,"LEERDAM, Arjan",Netherlands,M,50-59M,01:18:02,574.0
+1,615,675,"BAAS, Robert",Netherlands,M,50-59M,01:23:36,615.0
+1,622,749,"OUD, Luc",Netherlands,M,50-59M,01:24:38,622.0
+1,623,861,"ROGGEN, Niek",Netherlands,M,60+M,01:24:42,623.0
+1,641,1034,"VOORBERG, Nick",Netherlands,M,20-29M,01:30:04,641.0
+1,643,335,"BONS, Ronnie (Cornelis)",Netherlands,M,30-39M,01:30:43,643.0
+1,644,1010,"BONS, David",Netherlands,M,30-39M,01:30:52,644.0
+1,646,370,"BAAS, Kirsten",Netherlands,F,45+F,01:31:14,646.0
+1,679,33,"WENNEKES, Sara",Netherlands,F,17-30F,DNF,DNF
+1,679,145,"HUISMAN, Niek",Netherlands,M,20-29M,DNF,DNF
+1,679,154,"SCHORTINGHUIS, Hugo",Netherlands,M,16-19M,DNF,DNF
+1,679,265,"VAN DER WOLF, Meindert",Netherlands,M,50-59M,DNF,DNF
+1,679,326,"FABER, Hessel",Netherlands,M,40-49M,DNF,DNF
+1,679,332,"KOOIJ, Jakob",Netherlands,M,20-29M,DNF,DNF
+1,679,355,"DUNNEWIND, Arthur",Netherlands,M,16-19M,DNF,DNF
+1,679,367,"GLATTLI, Nick",Netherlands,M,50-59M,DNF,DNF
+1,679,426,"DE PAGTER, Edwin",Netherlands,M,40-49M,DNF,DNF
+1,679,429,"VAN DEN HEUVEL, Thomas",Netherlands,M,20-29M,DNF,DNF
+1,679,497,"HUISMAN, Rob",Netherlands,M,50-59M,DNF,DNF
+1,679,635,"BOER, Marleen",Netherlands,F,45+F,DNF,DNF
+1,679,679,"HOOIJMANS, Marcel",Netherlands,M,50-59M,DNF,DNF
+1,679,683,"ORLEMANS, Jerome",Netherlands,M,50-59M,DNF,DNF
+1,679,698,"MOBACH, Martijn",Netherlands,M,50-59M,DNF,DNF
+1,679,729,"MORIA, Marco",Netherlands,M,50-59M,DNF,DNF
+1,679,747,"LAMBERS, Marco",Netherlands,M,40-49M,DNF,DNF
+1,679,756,"BULTHUIS, Johan",Netherlands,M,50-59M,DNF,DNF
+1,679,887,"KRUSE, Thomas",Netherlands,M,50-59M,DNF,DNF
+1,679,963,"KAPPETIJN, Olaf",Netherlands,M,50-59M,DNF,DNF
+1,679,1038,"WIERSTRA, Nico",Netherlands,M,50-59M,DNF,DNF
+1,679,1046,"DE JONG, Richard ( Aah )",Netherlands,M,40-49M,DNF,DNF
+1,679,1087,"VANOPZEELAND, Luuc",Netherlands,M,20-29M,DNF,DNF
+1,679,1154,"VAN WAAS, Dick",Netherlands,M,50-59M,DNF,DNF
+1,679,106,"SCHUILING, Theo",Netherlands,M,50-59M,DNS,DNS
+1,679,130,"AGEMA, Arnold",Netherlands,M,40-49M,DNS,DNS
+1,679,312,"CALKHOVEN, Manouk",Netherlands,F,31-45F,DNS,DNS
+1,679,483,"VAN DER ZEL, Paul",Netherlands,M,50-59M,DNS,DNS
+1,679,541,"AL, John",Netherlands,M,50-59M,DNS,DNS
+1,679,607,"HAVERKAMP, Jeroen",Netherlands,M,50-59M,DNS,DNS
+1,679,798,"DE ROOS, Maarten",Netherlands,M,40-49M,DNS,DNS
+1,679,968,"PIETERSE, Jeffrey",Netherlands,M,40-49M,DNS,DNS
+1,679,1031,"VEENBOER, Floyd",Netherlands,M,40-49M,DNS,DNS
+1,679,1234,"KLUIVERS, Igor",Netherlands,M,40-49M,DNS,DNS
+2,5,69,"VONK, Jordy",Netherlands,M,20-29M,00:33:02,5.0
+2,6,388,"DALDORF, Ingmar",Netherlands,M,30-39M,00:33:19,6.0
+2,17,1176,"WESTERA, Ethan",Netherlands,M,20-29M,00:34:22,17.0
+2,26,331,"WONDERGEM, Floris",Netherlands,M,16-19M,00:35:30,26.0
+2,29,9,"FRANS, Taty",Netherlands,M,30-39M,00:35:51,29.0
+2,43,1193,"VAN DER STEEN, Benny",Netherlands,M,40-49M,00:36:51,43.0
+2,65,390,"KLAAIJSEN, Dennis",Netherlands,M,40-49M,00:38:35,65.0
+2,69,333,"CAUMONT, Christian",Netherlands,M,50-59M,00:38:54,69.0
+2,79,366,"BOSMAN, Joris",Netherlands,M,40-49M,00:39:27,79.0
+2,98,703,"VAN NOORD, Martijn",Netherlands,M,20-29M,00:40:46,98.0
+2,122,145,"HUISMAN, Niek",Netherlands,M,20-29M,00:42:17,122.0
+2,134,1086,"DE BOER, Thewes",Netherlands,M,40-49M,00:42:51,134.0
+2,181,225,"VAN DER VEEN, Jelle",Netherlands,M,20-29M,00:44:50,181.0
+2,186,690,"VAN DER VEEN, Femke",Netherlands,F,17-30F,00:44:54,186.0
+2,194,1153,"VAN WAAS, Eric",Netherlands,M,50-59M,00:45:18,194.0
+2,203,367,"GLATTLI, Nick",Netherlands,M,50-59M,00:45:43,203.0
+2,206,332,"KOOIJ, Jakob",Netherlands,M,20-29M,00:45:52,206.0
+2,250,417,"HOOGENDAM, Fabienne",Netherlands,F,17-30F,00:47:21,250.0
+2,273,1038,"WIERSTRA, Nico",Netherlands,M,50-59M,00:48:23,273.0
+2,275,172,"VENTE, Johan",Netherlands,M,50-59M,00:48:30,275.0
+2,302,473,"BLANKENSTEIN, Eric",Netherlands,M,50-59M,00:49:28,302.0
+2,307,909,"VERMOEN, Marco",Netherlands,M,40-49M,00:49:42,307.0
+2,389,643,"VISKER, Alwin",Netherlands,M,50-59M,00:52:20,389.0
+2,400,675,"BAAS, Robert",Netherlands,M,50-59M,00:52:47,400.0
+2,427,510,"BUIJS, Joris",Netherlands,M,50-59M,00:53:40,427.0
+2,431,33,"WENNEKES, Sara",Netherlands,F,17-30F,00:53:47,431.0
+2,500,1047,"BIJLSMA, Jasper",Netherlands,M,20-29M,00:55:55,500.0
+2,540,355,"DUNNEWIND, Arthur",Netherlands,M,16-19M,00:57:52,540.0
+2,572,698,"MOBACH, Martijn",Netherlands,M,50-59M,00:59:21,572.0
+2,572,756,"BULTHUIS, Johan",Netherlands,M,50-59M,00:59:21,572.0
+2,582,887,"KRUSE, Thomas",Netherlands,M,50-59M,00:59:51,582.0
+2,606,679,"HOOIJMANS, Marcel",Netherlands,M,50-59M,01:00:53,606.0
+2,608,867,"HOMMEL, Guido",Netherlands,M,40-49M,01:00:55,608.0
+2,612,431,"BIJLSMA, Sipke",Netherlands,M,50-59M,01:01:19,612.0
+2,621,310,"LEERDAM, Arjan",Netherlands,M,50-59M,01:01:49,621.0
+2,630,387,"VERMEULEN, Jan Willem",Netherlands,M,50-59M,01:02:03,630.0
+2,662,154,"SCHORTINGHUIS, Hugo",Netherlands,M,16-19M,01:03:36,662.0
+2,710,747,"LAMBERS, Marco",Netherlands,M,40-49M,01:06:10,710.0
+2,715,861,"ROGGEN, Niek",Netherlands,M,60+M,01:06:22,715.0
+2,722,1263,"VAN MUISWINKEL, Kees",Netherlands,M,50-59M,01:06:51,722.0
+2,762,370,"BAAS, Kirsten",Netherlands,F,45+F,01:09:39,762.0
+2,775,453,"SCHILPEROORT, Ruud",Netherlands,M,40-49M,01:11:02,775.0
+2,825,749,"OUD, Luc",Netherlands,M,50-59M,01:17:02,825.0
+2,826,335,"BONS, Ronnie (Cornelis)",Netherlands,M,30-39M,01:17:32,826.0
+2,827,1010,"BONS, David",Netherlands,M,30-39M,01:17:36,827.0
+2,836,1034,"VOORBERG, Nick",Netherlands,M,20-29M,01:21:13,836.0
+2,863,265,"VAN DER WOLF, Meindert",Netherlands,M,50-59M,DNF,DNF
+2,863,426,"DE PAGTER, Edwin",Netherlands,M,40-49M,DNF,DNF
+2,863,729,"MORIA, Marco",Netherlands,M,50-59M,DNF,DNF
+2,863,963,"KAPPETIJN, Olaf",Netherlands,M,50-59M,DNF,DNF
+2,863,1046,"DE JONG, Richard ( Aah )",Netherlands,M,40-49M,DNF,DNF
+2,863,1087,"VANOPZEELAND, Luuc",Netherlands,M,20-29M,DNF,DNF
+2,863,1154,"VAN WAAS, Dick",Netherlands,M,50-59M,DNF,DNF
+2,863,106,"SCHUILING, Theo",Netherlands,M,50-59M,DNS,DNS
+2,863,130,"AGEMA, Arnold",Netherlands,M,40-49M,DNS,DNS
+2,863,312,"CALKHOVEN, Manouk",Netherlands,F,31-45F,DNS,DNS
+2,863,326,"FABER, Hessel",Netherlands,M,40-49M,DNS,DNS
+2,863,429,"VAN DEN HEUVEL, Thomas",Netherlands,M,20-29M,DNS,DNS
+2,863,483,"VAN DER ZEL, Paul",Netherlands,M,50-59M,DNS,DNS
+2,863,497,"HUISMAN, Rob",Netherlands,M,50-59M,DNS,DNS
+2,863,541,"AL, John",Netherlands,M,50-59M,DNS,DNS
+2,863,607,"HAVERKAMP, Jeroen",Netherlands,M,50-59M,DNS,DNS
+2,863,635,"BOER, Marleen",Netherlands,F,45+F,DNS,DNS
+2,863,683,"ORLEMANS, Jerome",Netherlands,M,50-59M,DNS,DNS
+2,863,798,"DE ROOS, Maarten",Netherlands,M,40-49M,DNS,DNS
+2,863,968,"PIETERSE, Jeffrey",Netherlands,M,40-49M,DNS,DNS
+2,863,1031,"VEENBOER, Floyd",Netherlands,M,40-49M,DNS,DNS
+2,863,1234,"KLUIVERS, Igor",Netherlands,M,40-49M,DNS,DNS
+3,4,69,"VONK, Jordy",Netherlands,M,20-29M,00:32:31,4.0
+3,16,388,"DALDORF, Ingmar",Netherlands,M,30-39M,00:33:50,16.0
+3,23,9,"FRANS, Taty",Netherlands,M,30-39M,00:34:47,23.0
+3,29,1176,"WESTERA, Ethan",Netherlands,M,20-29M,00:35:11,29.0
+3,38,1193,"VAN DER STEEN, Benny",Netherlands,M,40-49M,00:35:40,38.0
+3,71,703,"VAN NOORD, Martijn",Netherlands,M,20-29M,00:38:18,71.0
+3,73,390,"KLAAIJSEN, Dennis",Netherlands,M,40-49M,00:38:24,73.0
+3,89,366,"BOSMAN, Joris",Netherlands,M,40-49M,00:39:41,89.0
+3,93,332,"KOOIJ, Jakob",Netherlands,M,20-29M,00:39:48,93.0
+3,98,1087,"VANOPZEELAND, Luuc",Netherlands,M,20-29M,00:40:07,98.0
+3,125,225,"VAN DER VEEN, Jelle",Netherlands,M,20-29M,00:41:18,125.0
+3,165,145,"HUISMAN, Niek",Netherlands,M,20-29M,00:43:24,165.0
+3,179,1086,"DE BOER, Thewes",Netherlands,M,40-49M,00:43:59,179.0
+3,222,33,"WENNEKES, Sara",Netherlands,F,17-30F,00:46:11,222.0
+3,229,367,"GLATTLI, Nick",Netherlands,M,50-59M,00:46:23,229.0
+3,245,675,"BAAS, Robert",Netherlands,M,50-59M,00:46:51,245.0
+3,269,1153,"VAN WAAS, Eric",Netherlands,M,50-59M,00:47:59,269.0
+3,279,417,"HOOGENDAM, Fabienne",Netherlands,F,17-30F,00:48:20,279.0
+3,288,690,"VAN DER VEEN, Femke",Netherlands,F,17-30F,00:48:32,288.0
+3,317,1038,"WIERSTRA, Nico",Netherlands,M,50-59M,00:50:11,317.0
+3,333,172,"VENTE, Johan",Netherlands,M,50-59M,00:50:49,333.0
+3,410,698,"MOBACH, Martijn",Netherlands,M,50-59M,00:53:31,410.0
+3,436,1034,"VOORBERG, Nick",Netherlands,M,20-29M,00:54:42,436.0
+3,446,643,"VISKER, Alwin",Netherlands,M,50-59M,00:55:06,446.0
+3,475,1047,"BIJLSMA, Jasper",Netherlands,M,20-29M,00:56:13,475.0
+3,489,909,"VERMOEN, Marco",Netherlands,M,40-49M,00:56:59,489.0
+3,493,510,"BUIJS, Joris",Netherlands,M,50-59M,00:57:12,493.0
+3,520,867,"HOMMEL, Guido",Netherlands,M,40-49M,00:58:09,520.0
+3,548,431,"BIJLSMA, Sipke",Netherlands,M,50-59M,00:59:49,548.0
+3,548,887,"KRUSE, Thomas",Netherlands,M,50-59M,00:59:49,548.0
+3,602,756,"BULTHUIS, Johan",Netherlands,M,50-59M,01:01:56,602.0
+3,623,387,"VERMEULEN, Jan Willem",Netherlands,M,50-59M,01:02:51,623.0
+3,674,310,"LEERDAM, Arjan",Netherlands,M,50-59M,01:05:31,674.0
+3,679,1263,"VAN MUISWINKEL, Kees",Netherlands,M,50-59M,01:05:51,679.0
+3,707,370,"BAAS, Kirsten",Netherlands,F,45+F,01:07:19,707.0
+3,718,154,"SCHORTINGHUIS, Hugo",Netherlands,M,16-19M,01:08:12,718.0
+3,731,861,"ROGGEN, Niek",Netherlands,M,60+M,01:09:21,731.0
+3,748,729,"MORIA, Marco",Netherlands,M,50-59M,01:11:00,748.0
+3,753,747,"LAMBERS, Marco",Netherlands,M,40-49M,01:11:51,753.0
+3,767,355,"DUNNEWIND, Arthur",Netherlands,M,16-19M,01:13:43,767.0
+3,777,335,"BONS, Ronnie (Cornelis)",Netherlands,M,30-39M,01:15:21,777.0
+3,777,1010,"BONS, David",Netherlands,M,30-39M,01:15:21,777.0
+3,829,331,"WONDERGEM, Floris",Netherlands,M,16-19M,DNF,DNF
+3,829,333,"CAUMONT, Christian",Netherlands,M,50-59M,DNF,DNF
+3,829,963,"KAPPETIJN, Olaf",Netherlands,M,50-59M,DNF,DNF
+3,829,106,"SCHUILING, Theo",Netherlands,M,50-59M,DNS,DNS
+3,829,130,"AGEMA, Arnold",Netherlands,M,40-49M,DNS,DNS
+3,829,265,"VAN DER WOLF, Meindert",Netherlands,M,50-59M,DNS,DNS
+3,829,312,"CALKHOVEN, Manouk",Netherlands,F,31-45F,DNS,DNS
+3,829,326,"FABER, Hessel",Netherlands,M,40-49M,DNS,DNS
+3,829,426,"DE PAGTER, Edwin",Netherlands,M,40-49M,DNS,DNS
+3,829,429,"VAN DEN HEUVEL, Thomas",Netherlands,M,20-29M,DNS,DNS
+3,829,453,"SCHILPEROORT, Ruud",Netherlands,M,40-49M,DNS,DNS
+3,829,473,"BLANKENSTEIN, Eric",Netherlands,M,50-59M,DNS,DNS
+3,829,483,"VAN DER ZEL, Paul",Netherlands,M,50-59M,DNS,DNS
+3,829,497,"HUISMAN, Rob",Netherlands,M,50-59M,DNS,DNS
+3,829,541,"AL, John",Netherlands,M,50-59M,DNS,DNS
+3,829,607,"HAVERKAMP, Jeroen",Netherlands,M,50-59M,DNS,DNS
+3,829,635,"BOER, Marleen",Netherlands,F,45+F,DNS,DNS
+3,829,679,"HOOIJMANS, Marcel",Netherlands,M,50-59M,DNS,DNS
+3,829,683,"ORLEMANS, Jerome",Netherlands,M,50-59M,DNS,DNS
+3,829,749,"OUD, Luc",Netherlands,M,50-59M,DNS,DNS
+3,829,798,"DE ROOS, Maarten",Netherlands,M,40-49M,DNS,DNS
+3,829,968,"PIETERSE, Jeffrey",Netherlands,M,40-49M,DNS,DNS
+3,829,1031,"VEENBOER, Floyd",Netherlands,M,40-49M,DNS,DNS
+3,829,1046,"DE JONG, Richard ( Aah )",Netherlands,M,40-49M,DNS,DNS
+3,829,1154,"VAN WAAS, Dick",Netherlands,M,50-59M,DNS,DNS
+3,829,1234,"KLUIVERS, Igor",Netherlands,M,40-49M,DNS,DNS
+4,5,1176,"WESTERA, Ethan",Netherlands,M,20-29M,00:35:51,5.0
+4,12,69,"VONK, Jordy",Netherlands,M,20-29M,00:36:49,12.0
+4,21,9,"FRANS, Taty",Netherlands,M,30-39M,00:37:56,21.0
+4,43,388,"DALDORF, Ingmar",Netherlands,M,30-39M,00:40:57,43.0
+4,49,390,"KLAAIJSEN, Dennis",Netherlands,M,40-49M,00:41:21,49.0
+4,50,1193,"VAN DER STEEN, Benny",Netherlands,M,40-49M,00:41:31,50.0
+4,65,332,"KOOIJ, Jakob",Netherlands,M,20-29M,00:42:37,65.0
+4,68,225,"VAN DER VEEN, Jelle",Netherlands,M,20-29M,00:42:55,68.0
+4,72,145,"HUISMAN, Niek",Netherlands,M,20-29M,00:43:22,72.0
+4,75,331,"WONDERGEM, Floris",Netherlands,M,16-19M,00:43:36,75.0
+4,79,33,"WENNEKES, Sara",Netherlands,F,17-30F,00:43:42,79.0
+4,106,690,"VAN DER VEEN, Femke",Netherlands,F,17-30F,00:46:14,106.0
+4,123,1087,"VANOPZEELAND, Luuc",Netherlands,M,20-29M,00:48:26,123.0
+4,147,703,"VAN NOORD, Martijn",Netherlands,M,20-29M,00:50:02,147.0
+4,164,1086,"DE BOER, Thewes",Netherlands,M,40-49M,00:51:20,164.0
+4,191,1153,"VAN WAAS, Eric",Netherlands,M,50-59M,00:53:08,191.0
+4,201,675,"BAAS, Robert",Netherlands,M,50-59M,00:53:45,201.0
+4,233,366,"BOSMAN, Joris",Netherlands,M,40-49M,00:56:41,233.0
+4,245,387,"VERMEULEN, Jan Willem",Netherlands,M,50-59M,00:57:22,245.0
+4,263,643,"VISKER, Alwin",Netherlands,M,50-59M,00:58:24,263.0
+4,294,310,"LEERDAM, Arjan",Netherlands,M,50-59M,01:00:06,294.0
+4,314,417,"HOOGENDAM, Fabienne",Netherlands,F,17-30F,01:01:09,314.0
+4,349,909,"VERMOEN, Marco",Netherlands,M,40-49M,01:03:25,349.0
+4,370,1034,"VOORBERG, Nick",Netherlands,M,20-29M,01:04:31,370.0
+4,395,172,"VENTE, Johan",Netherlands,M,50-59M,01:06:16,395.0
+4,403,1047,"BIJLSMA, Jasper",Netherlands,M,20-29M,01:06:45,403.0
+4,428,1038,"WIERSTRA, Nico",Netherlands,M,50-59M,01:08:19,428.0
+4,503,431,"BIJLSMA, Sipke",Netherlands,M,50-59M,01:12:05,503.0
+4,537,698,"MOBACH, Martijn",Netherlands,M,50-59M,01:13:50,537.0
+4,568,747,"LAMBERS, Marco",Netherlands,M,40-49M,01:16:03,568.0
+4,582,426,"DE PAGTER, Edwin",Netherlands,M,40-49M,01:16:57,582.0
+4,598,887,"KRUSE, Thomas",Netherlands,M,50-59M,01:17:42,598.0
+4,599,1263,"VAN MUISWINKEL, Kees",Netherlands,M,50-59M,01:17:59,599.0
+4,622,867,"HOMMEL, Guido",Netherlands,M,40-49M,01:20:07,622.0
+4,646,370,"BAAS, Kirsten",Netherlands,F,45+F,01:22:10,646.0
+4,681,861,"ROGGEN, Niek",Netherlands,M,60+M,01:24:33,681.0
+4,683,335,"BONS, Ronnie (Cornelis)",Netherlands,M,30-39M,01:24:36,683.0
+4,684,1010,"BONS, David",Netherlands,M,30-39M,01:24:39,684.0
+4,737,154,"SCHORTINGHUIS, Hugo",Netherlands,M,16-19M,01:31:41,737.0
+4,767,1046,"DE JONG, Richard ( Aah )",Netherlands,M,40-49M,01:36:30,767.0
+4,775,749,"OUD, Luc",Netherlands,M,50-59M,01:37:37,775.0
+4,817,265,"VAN DER WOLF, Meindert",Netherlands,M,50-59M,02:12:12,817.0
+4,818,367,"GLATTLI, Nick",Netherlands,M,50-59M,DNF,DNF
+4,818,453,"SCHILPEROORT, Ruud",Netherlands,M,40-49M,DNF,DNF
+4,818,473,"BLANKENSTEIN, Eric",Netherlands,M,50-59M,DNF,DNF
+4,818,510,"BUIJS, Joris",Netherlands,M,50-59M,DNF,DNF
+4,818,756,"BULTHUIS, Johan",Netherlands,M,50-59M,DNF,DNF
+4,818,963,"KAPPETIJN, Olaf",Netherlands,M,50-59M,DNF,DNF
+4,818,106,"SCHUILING, Theo",Netherlands,M,50-59M,DNS,DNS
+4,818,130,"AGEMA, Arnold",Netherlands,M,40-49M,DNS,DNS
+4,818,312,"CALKHOVEN, Manouk",Netherlands,F,31-45F,DNS,DNS
+4,818,326,"FABER, Hessel",Netherlands,M,40-49M,DNS,DNS
+4,818,333,"CAUMONT, Christian",Netherlands,M,50-59M,DNS,DNS
+4,818,355,"DUNNEWIND, Arthur",Netherlands,M,16-19M,DNS,DNS
+4,818,429,"VAN DEN HEUVEL, Thomas",Netherlands,M,20-29M,DNS,DNS
+4,818,483,"VAN DER ZEL, Paul",Netherlands,M,50-59M,DNS,DNS
+4,818,497,"HUISMAN, Rob",Netherlands,M,50-59M,DNS,DNS
+4,818,541,"AL, John",Netherlands,M,50-59M,DNS,DNS
+4,818,607,"HAVERKAMP, Jeroen",Netherlands,M,50-59M,DNS,DNS
+4,818,635,"BOER, Marleen",Netherlands,F,45+F,DNS,DNS
+4,818,679,"HOOIJMANS, Marcel",Netherlands,M,50-59M,DNS,DNS
+4,818,683,"ORLEMANS, Jerome",Netherlands,M,50-59M,DNS,DNS
+4,818,729,"MORIA, Marco",Netherlands,M,50-59M,DNS,DNS
+4,818,798,"DE ROOS, Maarten",Netherlands,M,40-49M,DNS,DNS
+4,818,968,"PIETERSE, Jeffrey",Netherlands,M,40-49M,DNS,DNS
+4,818,1031,"VEENBOER, Floyd",Netherlands,M,40-49M,DNS,DNS
+4,818,1154,"VAN WAAS, Dick",Netherlands,M,50-59M,DNS,DNS
+4,818,1234,"KLUIVERS, Igor",Netherlands,M,40-49M,DNS,DNS
+5,11,1176,"WESTERA, Ethan",Netherlands,M,20-29M,,10.0
+5,18,9,"FRANS, Taty",Netherlands,M,30-39M,,17.0
+5,19,388,"DALDORF, Ingmar",Netherlands,M,30-39M,,18.0
+5,32,69,"VONK, Jordy",Netherlands,M,20-29M,,31.0
+5,38,1193,"VAN DER STEEN, Benny",Netherlands,M,40-49M,,37.0
+5,42,1087,"VANOPZEELAND, Luuc",Netherlands,M,20-29M,,41.0
+5,44,145,"HUISMAN, Niek",Netherlands,M,20-29M,,43.0
+5,49,390,"KLAAIJSEN, Dennis",Netherlands,M,40-49M,,48.0
+5,59,331,"WONDERGEM, Floris",Netherlands,M,16-19M,,58.0
+5,81,332,"KOOIJ, Jakob",Netherlands,M,20-29M,,80.0
+5,87,33,"WENNEKES, Sara",Netherlands,F,17-30F,,86.0
+5,91,703,"VAN NOORD, Martijn",Netherlands,M,20-29M,,90.0
+5,114,366,"BOSMAN, Joris",Netherlands,M,40-49M,,113.0
+5,144,225,"VAN DER VEEN, Jelle",Netherlands,M,20-29M,,143.0
+5,176,690,"VAN DER VEEN, Femke",Netherlands,F,17-30F,,174.0
+5,185,675,"BAAS, Robert",Netherlands,M,50-59M,,182.0
+5,215,1153,"VAN WAAS, Eric",Netherlands,M,50-59M,,212.0
+5,235,1047,"BIJLSMA, Jasper",Netherlands,M,20-29M,,232.0
+5,267,1038,"WIERSTRA, Nico",Netherlands,M,50-59M,,264.0
+5,287,172,"VENTE, Johan",Netherlands,M,50-59M,,284.0
+5,295,909,"VERMOEN, Marco",Netherlands,M,40-49M,,292.0
+5,308,643,"VISKER, Alwin",Netherlands,M,50-59M,,305.0
+5,345,510,"BUIJS, Joris",Netherlands,M,50-59M,,341.0
+5,357,310,"LEERDAM, Arjan",Netherlands,M,50-59M,,353.0
+5,376,417,"HOOGENDAM, Fabienne",Netherlands,F,17-30F,,372.0
+5,389,698,"MOBACH, Martijn",Netherlands,M,50-59M,,385.0
+5,393,1086,"DE BOER, Thewes",Netherlands,M,40-49M,,389.0
+5,433,747,"LAMBERS, Marco",Netherlands,M,40-49M,,429.0
+5,451,756,"BULTHUIS, Johan",Netherlands,M,50-59M,,447.0
+5,474,431,"BIJLSMA, Sipke",Netherlands,M,50-59M,,470.0
+5,500,453,"SCHILPEROORT, Ruud",Netherlands,M,40-49M,,496.0
+5,540,1034,"VOORBERG, Nick",Netherlands,M,20-29M,,534.0
+5,562,335,"BONS, Ronnie (Cornelis)",Netherlands,M,30-39M,,557.0
+5,562,1010,"BONS, David",Netherlands,M,30-39M,,557.0
+5,564,370,"BAAS, Kirsten",Netherlands,F,45+F,,558.0
+5,623,1263,"VAN MUISWINKEL, Kees",Netherlands,M,50-59M,,616.0
+5,701,154,"SCHORTINGHUIS, Hugo",Netherlands,M,16-19M,,694.0
+5,732,387,"VERMEULEN, Jan Willem",Netherlands,M,50-59M,,1249.0
+5,732,426,"DE PAGTER, Edwin",Netherlands,M,40-49M,,1249.0
+5,732,473,"BLANKENSTEIN, Eric",Netherlands,M,50-59M,,1249.0
+5,732,749,"OUD, Luc",Netherlands,M,50-59M,,1249.0
+5,732,861,"ROGGEN, Niek",Netherlands,M,60+M,,1249.0
+5,732,867,"HOMMEL, Guido",Netherlands,M,40-49M,,1249.0
+5,732,887,"KRUSE, Thomas",Netherlands,M,50-59M,,1249.0
+5,732,963,"KAPPETIJN, Olaf",Netherlands,M,50-59M,,1249.0
+5,732,1046,"DE JONG, Richard ( Aah )",Netherlands,M,40-49M,,1249.0
+5,732,1234,"KLUIVERS, Igor",Netherlands,M,40-49M,,1249.0
+5,940,106,"SCHUILING, Theo",Netherlands,M,50-59M,,1250.0
+5,940,130,"AGEMA, Arnold",Netherlands,M,40-49M,,1250.0
+5,940,265,"VAN DER WOLF, Meindert",Netherlands,M,50-59M,,1250.0
+5,940,312,"CALKHOVEN, Manouk",Netherlands,F,31-45F,,1250.0
+5,940,326,"FABER, Hessel",Netherlands,M,40-49M,,1250.0
+5,940,333,"CAUMONT, Christian",Netherlands,M,50-59M,,1250.0
+5,940,355,"DUNNEWIND, Arthur",Netherlands,M,16-19M,,1250.0
+5,940,367,"GLATTLI, Nick",Netherlands,M,50-59M,,1250.0
+5,940,429,"VAN DEN HEUVEL, Thomas",Netherlands,M,20-29M,,1250.0
+5,940,483,"VAN DER ZEL, Paul",Netherlands,M,50-59M,,1250.0
+5,940,497,"HUISMAN, Rob",Netherlands,M,50-59M,,1250.0
+5,940,541,"AL, John",Netherlands,M,50-59M,,1250.0
+5,940,607,"HAVERKAMP, Jeroen",Netherlands,M,50-59M,,1250.0
+5,940,635,"BOER, Marleen",Netherlands,F,45+F,,1250.0
+5,940,679,"HOOIJMANS, Marcel",Netherlands,M,50-59M,,1250.0
+5,940,683,"ORLEMANS, Jerome",Netherlands,M,50-59M,,1250.0
+5,940,729,"MORIA, Marco",Netherlands,M,50-59M,,1250.0
+5,940,798,"DE ROOS, Maarten",Netherlands,M,40-49M,,1250.0
+5,940,968,"PIETERSE, Jeffrey",Netherlands,M,40-49M,,1250.0
+5,940,1031,"VEENBOER, Floyd",Netherlands,M,40-49M,,1250.0
+5,940,1154,"VAN WAAS, Dick",Netherlands,M,50-59M,,1250.0

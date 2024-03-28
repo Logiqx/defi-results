@@ -1,0 +1,51 @@
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
+1,182,328,"CUNHA, Elisiário",Portugal,M,40-49M,00:48:55,182.0
+1,245,384,"FRANCO, Luis",Portugal,M,50-59M,00:53:22,245.0
+1,503,847,"SILVA, Rui",Portugal,M,50-59M,01:10:23,503.0
+1,635,113,"MENDONCA, Elvio",Portugal,M,60+M,01:28:12,635.0
+1,679,311,"VIANA, Marco",Portugal,M,40-49M,DNF,DNF
+1,679,468,"MARTINS PEDRO, Luís Filipe",Portugal,M,40-49M,DNF,DNF
+1,679,513,"COSTA, Delker",Portugal,M,50-59M,DNF,DNF
+1,679,504,"CLÍMACO, Carlos",Portugal,M,60+M,DNS,DNS
+1,679,695,"LOPES, Carlos",Portugal,M,40-49M,DNS,DNS
+1,679,1015,"SILVA, Jose Antonio",Portugal,M,50-59M,DNS,DNS
+2,166,384,"FRANCO, Luis",Portugal,M,50-59M,00:44:21,166.0
+2,310,328,"CUNHA, Elisiário",Portugal,M,40-49M,00:49:49,310.0
+2,395,847,"SILVA, Rui",Portugal,M,50-59M,00:52:32,395.0
+2,678,113,"MENDONCA, Elvio",Portugal,M,60+M,01:04:18,678.0
+2,792,504,"CLÍMACO, Carlos",Portugal,M,60+M,01:12:52,792.0
+2,863,311,"VIANA, Marco",Portugal,M,40-49M,DNF,DNF
+2,863,468,"MARTINS PEDRO, Luís Filipe",Portugal,M,40-49M,DNF,DNF
+2,863,513,"COSTA, Delker",Portugal,M,50-59M,DNF,DNF
+2,863,695,"LOPES, Carlos",Portugal,M,40-49M,DNS,DNS
+2,863,1015,"SILVA, Jose Antonio",Portugal,M,50-59M,DNS,DNS
+3,224,384,"FRANCO, Luis",Portugal,M,50-59M,00:46:15,224.0
+3,251,328,"CUNHA, Elisiário",Portugal,M,40-49M,00:47:14,251.0
+3,483,113,"MENDONCA, Elvio",Portugal,M,60+M,00:56:38,483.0
+3,630,847,"SILVA, Rui",Portugal,M,50-59M,01:03:07,630.0
+3,713,311,"VIANA, Marco",Portugal,M,40-49M,01:07:58,713.0
+3,829,468,"MARTINS PEDRO, Luís Filipe",Portugal,M,40-49M,DNF,DNF
+3,829,513,"COSTA, Delker",Portugal,M,50-59M,DNF,DNF
+3,829,504,"CLÍMACO, Carlos",Portugal,M,60+M,DNS,DNS
+3,829,695,"LOPES, Carlos",Portugal,M,40-49M,DNS,DNS
+3,829,1015,"SILVA, Jose Antonio",Portugal,M,50-59M,DNS,DNS
+4,259,384,"FRANCO, Luis",Portugal,M,50-59M,00:57:59,259.0
+4,288,328,"CUNHA, Elisiário",Portugal,M,40-49M,00:59:51,288.0
+4,432,113,"MENDONCA, Elvio",Portugal,M,60+M,01:08:31,432.0
+4,701,847,"SILVA, Rui",Portugal,M,50-59M,01:26:55,701.0
+4,773,513,"COSTA, Delker",Portugal,M,50-59M,01:37:32,773.0
+4,818,311,"VIANA, Marco",Portugal,M,40-49M,DNS,DNS
+4,818,468,"MARTINS PEDRO, Luís Filipe",Portugal,M,40-49M,DNS,DNS
+4,818,504,"CLÍMACO, Carlos",Portugal,M,60+M,DNS,DNS
+4,818,695,"LOPES, Carlos",Portugal,M,40-49M,DNS,DNS
+4,818,1015,"SILVA, Jose Antonio",Portugal,M,50-59M,DNS,DNS
+5,220,328,"CUNHA, Elisiário",Portugal,M,40-49M,,217.0
+5,309,847,"SILVA, Rui",Portugal,M,50-59M,,306.0
+5,352,384,"FRANCO, Luis",Portugal,M,50-59M,,348.0
+5,521,113,"MENDONCA, Elvio",Portugal,M,60+M,,515.0
+5,732,311,"VIANA, Marco",Portugal,M,40-49M,,1249.0
+5,732,513,"COSTA, Delker",Portugal,M,50-59M,,1249.0
+5,940,468,"MARTINS PEDRO, Luís Filipe",Portugal,M,40-49M,,1250.0
+5,940,504,"CLÍMACO, Carlos",Portugal,M,60+M,,1250.0
+5,940,695,"LOPES, Carlos",Portugal,M,40-49M,,1250.0
+5,940,1015,"SILVA, Jose Antonio",Portugal,M,50-59M,,1250.0
