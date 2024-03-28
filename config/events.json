@@ -2,7 +2,6 @@
   {
     "name": "Défi Wind 2022",
     "year": "2022",
-    "path": "2022",
     "fields": {
         "Place": ["Pl."],
         "Tally": ["Dossard"],
@@ -39,7 +38,6 @@
   {
     "name": "Défi Wind 2023",
     "year": "2023",
-    "path": "2023",
     "fields": {
         "Place": ["Pl."],
         "Tally": ["Dossard"],
