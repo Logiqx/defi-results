@@ -4262,6 +4262,7 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 1,834,247,"HOUGHTON, RICHARD",United Kingdom,M,Fin,40-59M,01:17:48
 1,848,901,"TAYLOR, ROGER",United Kingdom,M,Fin,40-59M,01:18:30
 1,854,1348,"POLL, ANTON",United Kingdom,M,Fin,40-59M,01:19:07
+1,859,1128,"PALMER, MARK",United Kingdom,M,Fin,40-59M,01:19:21
 1,870,404,"HARBER, HUGO",United Kingdom,M,Fin,40-59M,01:19:50
 1,912,1034,"SIMMONS, CHRISTOPHER",United Kingdom,M,Open,40-59M,01:23:40
 1,987,607,"THOMPSON, STEPHEN",United Kingdom,M,Fin,60+M,01:33:20
@@ -4295,6 +4296,7 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 2,470,1465,"SPALL, DAVID",United Kingdom,M,Foil,60+M,00:52:02
 2,495,335,"RUSSELL, JONATHAN",United Kingdom,M,Fin,40-59M,00:52:51
 2,521,901,"TAYLOR, ROGER",United Kingdom,M,Fin,40-59M,00:53:32
+2,526,1128,"PALMER, MARK",United Kingdom,M,Fin,40-59M,00:53:47
 2,528,229,"BUKOLT, MACIEJ",United Kingdom,M,Fin,40-59M,00:53:54
 2,563,984,"CHIPPINGTON, SIMON",United Kingdom,M,Open,40-59M,00:55:20
 2,589,768,"LARDER, RICHARD",United Kingdom,M,Fin,40-59M,00:56:23
@@ -4365,6 +4367,7 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 3,518,901,"TAYLOR, ROGER",United Kingdom,M,Fin,40-59M,00:54:07
 3,588,506,"JERRARD, MARTIN",United Kingdom,M,Fin,40-59M,00:56:50
 3,642,724,"CONNELL, GARRY",United Kingdom,M,Open,40-59M,00:59:38
+3,651,1128,"PALMER, MARK",United Kingdom,M,Fin,40-59M,00:59:52
 3,659,913,"WHITE, PETER",United Kingdom,M,Fin,40-59M,01:00:21
 3,698,744,"SMITH, SAM",United Kingdom,M,Fin,20-39M,01:01:52
 3,753,88,"CLARK, ROGER",United Kingdom,M,Fin,40-59M,01:03:36
@@ -4432,6 +4435,7 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 4,307,1299,"GEORGE, MICHAEL",United Kingdom,M,Open,40-59M,00:48:29
 4,315,213,"HART, ANDY",United Kingdom,M,Open,20-39M,00:48:41
 4,406,335,"RUSSELL, JONATHAN",United Kingdom,M,Fin,40-59M,00:52:08
+4,467,1128,"PALMER, MARK",United Kingdom,M,Fin,40-59M,00:54:20
 4,515,984,"CHIPPINGTON, SIMON",United Kingdom,M,Open,40-59M,00:55:39
 4,547,768,"LARDER, RICHARD",United Kingdom,M,Fin,40-59M,00:56:30
 4,551,1001,"JEFFERY, NICK",United Kingdom,M,Fin,40-59M,00:56:35
@@ -5063,14 +5067,10 @@ RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
 3,266,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:45:49
 4,170,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:43:04
 1,142,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,00:45:09
-1,859,1128,"PALMER, MARK",Australia,M,Fin,40-59M,01:19:21
 2,170,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,00:41:50
-2,526,1128,"PALMER, MARK",Australia,M,Fin,40-59M,00:53:47
 2,1121,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,DNS
-3,651,1128,"PALMER, MARK",Australia,M,Fin,40-59M,00:59:52
 3,983,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,DNF
 3,983,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,DNS
-4,467,1128,"PALMER, MARK",Australia,M,Fin,40-59M,00:54:20
 4,480,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,00:54:36
 4,1018,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,DNS
 1,151,89,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,00:45:48
