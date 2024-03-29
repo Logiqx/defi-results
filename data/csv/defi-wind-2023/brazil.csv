@@ -1,5 +1,5 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
-1,395,593,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:57:14,
-2,519,593,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:53:28,
-3,178,593,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:42:29,
-4,242,593,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:45:50,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+1,395,593,,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:57:14,
+2,519,593,,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:53:28,
+3,178,593,,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:42:29,
+4,242,593,,"FRANKLIN, JEAN",Brazil,M,Fin,20-39M,00:45:50,

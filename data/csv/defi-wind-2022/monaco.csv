@@ -1,11 +1,11 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
-1,223,884,"MONDIELLI, Corentin",Monaco,M,20-29M,00:51:54,223.0,
-1,679,1342,"MONDIELLI, Lisa",Monaco,F,17-30F,,,DNF
-2,237,884,"MONDIELLI, Corentin",Monaco,M,20-29M,00:46:52,237.0,
-2,863,1342,"MONDIELLI, Lisa",Monaco,F,17-30F,,,DNF
-3,262,884,"MONDIELLI, Corentin",Monaco,M,20-29M,00:47:49,262.0,
-3,829,1342,"MONDIELLI, Lisa",Monaco,F,17-30F,,,DNS
-4,187,884,"MONDIELLI, Corentin",Monaco,M,20-29M,00:53:01,187.0,
-4,745,1342,"MONDIELLI, Lisa",Monaco,F,17-30F,01:32:20,745.0,
-5,233,884,"MONDIELLI, Corentin",Monaco,M,20-29M,,230.0,
-5,707,1342,"MONDIELLI, Lisa",Monaco,F,17-30F,,700.0,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,223,884,,"MONDIELLI, Corentin",Monaco,M,20-29M,00:51:54,223.0,
+1,679,1342,,"MONDIELLI, Lisa",Monaco,F,17-30F,,,DNF
+2,237,884,,"MONDIELLI, Corentin",Monaco,M,20-29M,00:46:52,237.0,
+2,863,1342,,"MONDIELLI, Lisa",Monaco,F,17-30F,,,DNF
+3,262,884,,"MONDIELLI, Corentin",Monaco,M,20-29M,00:47:49,262.0,
+3,829,1342,,"MONDIELLI, Lisa",Monaco,F,17-30F,,,DNS
+4,187,884,,"MONDIELLI, Corentin",Monaco,M,20-29M,00:53:01,187.0,
+4,745,1342,,"MONDIELLI, Lisa",Monaco,F,17-30F,01:32:20,745.0,
+5,233,884,,"MONDIELLI, Corentin",Monaco,M,20-29M,,230.0,
+5,707,1342,,"MONDIELLI, Lisa",Monaco,F,17-30F,,700.0,

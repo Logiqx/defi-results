@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
-1,25,1184,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:36:47,25.0,
-2,31,1184,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:35:56,31.0,
-3,40,1184,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:35:48,40.0,
-4,45,1184,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:40:59,45.0,
-5,20,1184,"GUADAGNINO, Diony",Venezuela,M,30-39M,,19.0,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,25,1184,,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:36:47,25.0,
+2,31,1184,,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:35:56,31.0,
+3,40,1184,,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:35:48,40.0,
+4,45,1184,,"GUADAGNINO, Diony",Venezuela,M,30-39M,00:40:59,45.0,
+5,20,1184,,"GUADAGNINO, Diony",Venezuela,M,30-39M,,19.0,

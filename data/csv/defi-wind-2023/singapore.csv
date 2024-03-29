@@ -1,9 +1,9 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
-1,114,395,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:43:39,
-1,796,884,"TAN, WEARN HAW",Singapore,M,Open,40-59M,01:15:11,
-2,148,395,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:41:03,
-2,456,884,"TAN, WEARN HAW",Singapore,M,Open,40-59M,00:51:42,
-3,198,395,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:43:18,
-3,371,884,"TAN, WEARN HAW",Singapore,M,Open,40-59M,00:49:31,
-4,151,395,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:42:19,
-4,269,884,"TAN, WEARN HAW",Singapore,M,Open,40-59M,00:46:54,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+1,114,395,,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:43:39,
+1,796,884,,"TAN, WEARN HAW",Singapore,M,Open,40-59M,01:15:11,
+2,148,395,,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:41:03,
+2,456,884,,"TAN, WEARN HAW",Singapore,M,Open,40-59M,00:51:42,
+3,198,395,,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:43:18,
+3,371,884,,"TAN, WEARN HAW",Singapore,M,Open,40-59M,00:49:31,
+4,151,395,,"JUN HAO, LO",Singapore,M,Foil,20-39M,00:42:19,
+4,269,884,,"TAN, WEARN HAW",Singapore,M,Open,40-59M,00:46:54,

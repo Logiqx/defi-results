@@ -1,9 +1,9 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
-1,151,89,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,00:45:48,
-1,416,1030,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:58:03,
-2,357,1030,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:49:05,
-2,377,89,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,00:49:42,
-3,348,89,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,00:48:47,
-3,402,1030,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:50:11,
-4,301,1030,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:48:02,
-4,1018,89,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,,DNS
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+1,151,89,,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,00:45:48,
+1,416,1030,,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:58:03,
+2,357,1030,,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:49:05,
+2,377,89,,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,00:49:42,
+3,348,89,,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,00:48:47,
+3,402,1030,,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:50:11,
+4,301,1030,,"WALKER, ROBBIE",South Africa,M,Foil,40-59M,00:48:02,
+4,1018,89,,"VAN TONDER, KARO",South Africa,F,Fin,31-45F,,DNS

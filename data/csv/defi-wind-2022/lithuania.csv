@@ -1,11 +1,11 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
-1,679,7,"JASIUNAS, Rytis",Lithuania,M,20-29M,,,DNF
-1,679,937,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,,DNF
-2,67,7,"JASIUNAS, Rytis",Lithuania,M,20-29M,00:38:47,67.0,
-2,863,937,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,,DNF
-3,68,7,"JASIUNAS, Rytis",Lithuania,M,20-29M,00:38:07,68.0,
-3,829,937,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,,DNS
-4,32,7,"JASIUNAS, Rytis",Lithuania,M,20-29M,00:39:36,32.0,
-4,346,937,"MIKLUSIS, Tomas",Lithuania,M,40-49M,01:03:17,346.0,
-5,35,7,"JASIUNAS, Rytis",Lithuania,M,20-29M,,34.0,
-5,732,937,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,1249.0,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,679,7,,"JASIUNAS, Rytis",Lithuania,M,20-29M,,,DNF
+1,679,937,,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,,DNF
+2,67,7,,"JASIUNAS, Rytis",Lithuania,M,20-29M,00:38:47,67.0,
+2,863,937,,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,,DNF
+3,68,7,,"JASIUNAS, Rytis",Lithuania,M,20-29M,00:38:07,68.0,
+3,829,937,,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,,DNS
+4,32,7,,"JASIUNAS, Rytis",Lithuania,M,20-29M,00:39:36,32.0,
+4,346,937,,"MIKLUSIS, Tomas",Lithuania,M,40-49M,01:03:17,346.0,
+5,35,7,,"JASIUNAS, Rytis",Lithuania,M,20-29M,,34.0,
+5,732,937,,"MIKLUSIS, Tomas",Lithuania,M,40-49M,,1249.0,

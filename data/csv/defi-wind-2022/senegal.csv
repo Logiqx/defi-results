@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
-1,679,10184,"ALASSANE, Samba",Senegal,M,40-49M,,,DNF
-2,451,10184,"ALASSANE, Samba",Senegal,M,40-49M,00:54:23,451.0,
-3,341,10184,"ALASSANE, Samba",Senegal,M,40-49M,00:51:11,341.0,
-4,589,10184,"ALASSANE, Samba",Senegal,M,40-49M,01:17:06,589.0,
-5,512,10184,"ALASSANE, Samba",Senegal,M,40-49M,,507.0,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,679,10184,,"ALASSANE, Samba",Senegal,M,40-49M,,,DNF
+2,451,10184,,"ALASSANE, Samba",Senegal,M,40-49M,00:54:23,451.0,
+3,341,10184,,"ALASSANE, Samba",Senegal,M,40-49M,00:51:11,341.0,
+4,589,10184,,"ALASSANE, Samba",Senegal,M,40-49M,01:17:06,589.0,
+5,512,10184,,"ALASSANE, Samba",Senegal,M,40-49M,,507.0,

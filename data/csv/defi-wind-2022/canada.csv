@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
-1,679,1071,"LAING, George",Canada,M,50-59M,,,DNF
-2,863,1071,"LAING, George",Canada,M,50-59M,,,DNF
-3,829,1071,"LAING, George",Canada,M,50-59M,,,DNS
-4,818,1071,"LAING, George",Canada,M,50-59M,,,DNF
-5,940,1071,"LAING, George",Canada,M,50-59M,,1250.0,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,679,1071,,"LAING, George",Canada,M,50-59M,,,DNF
+2,863,1071,,"LAING, George",Canada,M,50-59M,,,DNF
+3,829,1071,,"LAING, George",Canada,M,50-59M,,,DNS
+4,818,1071,,"LAING, George",Canada,M,50-59M,,,DNF
+5,940,1071,,"LAING, George",Canada,M,50-59M,,1250.0,

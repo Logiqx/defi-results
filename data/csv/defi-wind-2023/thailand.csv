@@ -1,4 +1,4 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
-2,1121,318,"MCMILLAN, WILL",Thailand,M,Foil,U20M,,DNF
-3,39,318,"MCMILLAN, WILL",Thailand,M,Foil,U20M,00:35:57,
-4,1018,318,"MCMILLAN, WILL",Thailand,M,Foil,U20M,,DNF
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+2,1121,318,,"MCMILLAN, WILL",Thailand,M,Foil,U20M,,DNF
+3,39,318,,"MCMILLAN, WILL",Thailand,M,Foil,U20M,00:35:57,
+4,1018,318,,"MCMILLAN, WILL",Thailand,M,Foil,U20M,,DNF

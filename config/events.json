@@ -5,6 +5,7 @@
     "fields": {
       "Place": ["Pl."],
       "Tally": ["Dossard"],
+      "SailNo": [],
       "HelmName": ["Nom Prénom"],
       "Nat": ["Nat."],
       "HelmSex": ["Sexe"],
@@ -42,6 +43,7 @@
     "fields": {
       "Place": ["Pl."],
       "Tally": ["Dossard"],
+      "SailNo": [],
       "HelmName": ["Nom Prénom"],
       "Nat": ["Nat."],
       "HelmSex": ["Sexe"],

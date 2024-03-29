@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
-1,679,1173,"SIMSON, Priit",Estonia,M,30-39M,,,DNF
-2,863,1173,"SIMSON, Priit",Estonia,M,30-39M,,,DNS
-3,829,1173,"SIMSON, Priit",Estonia,M,30-39M,,,DNS
-4,713,1173,"SIMSON, Priit",Estonia,M,30-39M,01:28:39,713.0,
-5,940,1173,"SIMSON, Priit",Estonia,M,30-39M,,1250.0,
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,679,1173,,"SIMSON, Priit",Estonia,M,30-39M,,,DNF
+2,863,1173,,"SIMSON, Priit",Estonia,M,30-39M,,,DNS
+3,829,1173,,"SIMSON, Priit",Estonia,M,30-39M,,,DNS
+4,713,1173,,"SIMSON, Priit",Estonia,M,30-39M,01:28:39,713.0,
+5,940,1173,,"SIMSON, Priit",Estonia,M,30-39M,,1250.0,

@@ -1,4 +1,4 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
-2,1121,663,"TESSI, RICARDO JAVIER",Argentina,M,Fin,40-59M,,DNF
-3,983,663,"TESSI, RICARDO JAVIER",Argentina,M,Fin,40-59M,,DNS
-4,1018,663,"TESSI, RICARDO JAVIER",Argentina,M,Fin,40-59M,,DNS
+RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+2,1121,663,,"TESSI, RICARDO JAVIER",Argentina,M,Fin,40-59M,,DNF
+3,983,663,,"TESSI, RICARDO JAVIER",Argentina,M,Fin,40-59M,,DNS
+4,1018,663,,"TESSI, RICARDO JAVIER",Argentina,M,Fin,40-59M,,DNS
