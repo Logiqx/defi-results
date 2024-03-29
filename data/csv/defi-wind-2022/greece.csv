@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
-1,491,576,,"PRIMOS, Nikiforos",Greece,M,30-39M,01:09:33,491.0,
-2,604,576,,"PRIMOS, Nikiforos",Greece,M,30-39M,01:00:47,604.0,
-3,604,576,,"PRIMOS, Nikiforos",Greece,M,30-39M,01:02:00,604.0,
-4,514,576,,"PRIMOS, Nikiforos",Greece,M,30-39M,01:12:35,514.0,
-5,494,576,,"PRIMOS, Nikiforos",Greece,M,30-39M,,490.0,
+RaceNo,Place,Tally,HelmName,Nat,SailNo,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,491,576,"PRIMOS, Nikiforos",Greece,,M,30-39M,01:09:33,491.0,
+2,604,576,"PRIMOS, Nikiforos",Greece,,M,30-39M,01:00:47,604.0,
+3,604,576,"PRIMOS, Nikiforos",Greece,,M,30-39M,01:02:00,604.0,
+4,514,576,"PRIMOS, Nikiforos",Greece,,M,30-39M,01:12:35,514.0,
+5,494,576,"PRIMOS, Nikiforos",Greece,,M,30-39M,,490.0,

@@ -1,4 +1,4 @@
-RaceNo,Place,Tally,SailNo,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
-2,1121,349,,"DAGAN, Arnon",Israel,M,Open,40-59M,,DNF
-3,983,349,,"DAGAN, Arnon",Israel,M,Open,40-59M,,DNS
-4,1018,349,,"DAGAN, Arnon",Israel,M,Open,40-59M,,DNS
+RaceNo,Place,Tally,HelmName,Nat,SailNo,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+2,1121,349,"DAGAN, Arnon",Israel,,M,Open,40-59M,,DNF
+3,983,349,"DAGAN, Arnon",Israel,,M,Open,40-59M,,DNS
+4,1018,349,"DAGAN, Arnon",Israel,,M,Open,40-59M,,DNS

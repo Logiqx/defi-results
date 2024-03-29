@@ -5,9 +5,9 @@
     "fields": {
       "Place": ["Pl."],
       "Tally": ["Dossard"],
-      "SailNo": [],
       "HelmName": ["Nom Prénom"],
       "Nat": ["Nat."],
+      "SailNo": [],
       "HelmSex": ["Sexe"],
       "HelmAgeGroup": ["Catégorie"],
       "Elapsed": ["TempsRun", "TempsRun1"],
@@ -43,9 +43,9 @@
     "fields": {
       "Place": ["Pl."],
       "Tally": ["Dossard"],
-      "SailNo": [],
       "HelmName": ["Nom Prénom"],
       "Nat": ["Nat."],
+      "SailNo": [],
       "HelmSex": ["Sexe"],
       "Class": ["Support"],
       "HelmAgeGroup": ["Catégorie"],
