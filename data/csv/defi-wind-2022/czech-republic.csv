@@ -1,11 +1,11 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
-1,432,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,01:03:49,432.0
-1,567,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,01:16:43,567.0
-2,410,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,00:53:07,410.0
-2,421,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,00:53:31,421.0
-3,425,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,00:54:03,425.0
-3,829,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,DNS,DNS
-4,663,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,01:23:09,663.0
-4,818,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,DNS,DNS
-5,590,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,,584.0
-5,940,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,,1250.0
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,432,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,01:03:49,432.0,
+1,567,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,01:16:43,567.0,
+2,410,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,00:53:07,410.0,
+2,421,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,00:53:31,421.0,
+3,425,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,00:54:03,425.0,
+3,829,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,,,DNS
+4,663,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,01:23:09,663.0,
+4,818,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,,,DNS
+5,590,131,"MATEJZÍK, Petr",Czech Republic,M,40-49M,,584.0,
+5,940,1172,"LEDECKA, Ester",Czech Republic,F,17-30F,,1250.0,

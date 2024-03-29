@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
-1,92,883,"KOCJAN, Andrej",Slovenia,M,40-49M,00:43:23,92.0
-2,110,883,"KOCJAN, Andrej",Slovenia,M,40-49M,00:41:41,110.0
-3,100,883,"KOCJAN, Andrej",Slovenia,M,40-49M,00:40:15,100.0
-4,818,883,"KOCJAN, Andrej",Slovenia,M,40-49M,DNF,DNF
-5,138,883,"KOCJAN, Andrej",Slovenia,M,40-49M,,137.0
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,92,883,"KOCJAN, Andrej",Slovenia,M,40-49M,00:43:23,92.0,
+2,110,883,"KOCJAN, Andrej",Slovenia,M,40-49M,00:41:41,110.0,
+3,100,883,"KOCJAN, Andrej",Slovenia,M,40-49M,00:40:15,100.0,
+4,818,883,"KOCJAN, Andrej",Slovenia,M,40-49M,,,DNF
+5,138,883,"KOCJAN, Andrej",Slovenia,M,40-49M,,137.0,

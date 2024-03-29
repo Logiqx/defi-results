@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
-1,679,1143,"TAN, Wearn Haw",Singapore,M,40-49M,DNS,DNS
-2,745,1143,"TAN, Wearn Haw",Singapore,M,40-49M,01:08:05,745.0
-3,829,1143,"TAN, Wearn Haw",Singapore,M,40-49M,DNS,DNS
-4,818,1143,"TAN, Wearn Haw",Singapore,M,40-49M,DNS,DNS
-5,940,1143,"TAN, Wearn Haw",Singapore,M,40-49M,,1250.0
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,679,1143,"TAN, Wearn Haw",Singapore,M,40-49M,,,DNS
+2,745,1143,"TAN, Wearn Haw",Singapore,M,40-49M,01:08:05,745.0,
+3,829,1143,"TAN, Wearn Haw",Singapore,M,40-49M,,,DNS
+4,818,1143,"TAN, Wearn Haw",Singapore,M,40-49M,,,DNS
+5,940,1143,"TAN, Wearn Haw",Singapore,M,40-49M,,1250.0,

@@ -1,6 +1,6 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
-1,679,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,DNF,DNF
-2,863,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,DNF,DNF
-3,528,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,00:58:34,528.0
-4,795,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,01:45:31,795.0
-5,732,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,,1249.0
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,679,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,,,DNF
+2,863,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,,,DNF
+3,528,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,00:58:34,528.0,
+4,795,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,01:45:31,795.0,
+5,732,1151,"GOVERDOVSKIY, Vadim",Russia,M,50-59M,,1249.0,

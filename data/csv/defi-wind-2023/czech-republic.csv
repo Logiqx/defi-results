@@ -1,5 +1,5 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
-1,521,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,01:01:32
-2,737,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,01:01:07
-3,642,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,00:59:38
-4,611,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,00:58:16
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+1,521,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,01:01:32,
+2,737,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,01:01:07,
+3,642,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,00:59:38,
+4,611,133,"MATEJZÍK, PETR",Czech Republic,M,Fin,40-59M,00:58:16,

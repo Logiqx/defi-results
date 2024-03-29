@@ -1,8 +1,8 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
-1,142,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,00:45:09
-2,170,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,00:41:50
-2,1121,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,DNS
-3,983,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,DNF
-3,983,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,DNS
-4,480,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,00:54:36
-4,1018,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,DNS
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+1,142,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,00:45:09,
+2,170,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,00:41:50,
+2,1121,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,,DNS
+3,983,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,,DNF
+3,983,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,,DNS
+4,480,1305,"FLOOD, BENJAMIN",Australia,M,Open,20-39M,00:54:36,
+4,1018,1326,"SEVERNE, BEN",Australia,M,Fin,40-59M,,DNS

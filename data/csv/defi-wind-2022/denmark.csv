@@ -1,81 +1,81 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
-1,8,37,"SØE, Johan",Denmark,M,16-19M,00:33:56,8.0
-1,18,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:35:57,18.0
-1,43,262,"SEHESTED, Thomas",Denmark,M,40-49M,00:38:30,43.0
-1,52,41,"VINTHER, Noah",Denmark,M,16-19M,00:39:22,52.0
-1,80,382,"RØGILD, Brian",Denmark,M,50-59M,00:42:33,80.0
-1,219,277,"SVEJ, Martin",Denmark,M,50-59M,00:51:41,219.0
-1,507,736,"BØRGESEN, Christian",Denmark,M,50-59M,01:10:31,507.0
-1,517,1020,"SOHL, Ralf",Denmark,M,40-49M,01:11:39,517.0
-1,539,216,"THRANE, Kasper",Denmark,M,40-49M,01:13:43,539.0
-1,580,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,01:18:52,580.0
-1,679,48,"SANDERHOFF, Pernille",Denmark,F,45+F,DNF,DNF
-1,679,83,"HESSELBERG, Michael",Denmark,M,50-59M,DNF,DNF
-1,679,135,"ANDERS, Boje",Denmark,M,40-49M,DNF,DNF
-1,679,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,DNF,DNF
-1,679,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,DNF,DNF
-1,679,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,DNF,DNF
-2,12,37,"SØE, Johan",Denmark,M,16-19M,00:33:45,12.0
-2,22,135,"ANDERS, Boje",Denmark,M,40-49M,00:34:49,22.0
-2,24,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:35:26,24.0
-2,39,262,"SEHESTED, Thomas",Denmark,M,40-49M,00:36:32,39.0
-2,59,41,"VINTHER, Noah",Denmark,M,16-19M,00:38:22,59.0
-2,109,382,"RØGILD, Brian",Denmark,M,50-59M,00:41:34,109.0
-2,201,277,"SVEJ, Martin",Denmark,M,50-59M,00:45:39,201.0
-2,249,216,"THRANE, Kasper",Denmark,M,40-49M,00:47:20,249.0
-2,465,736,"BØRGESEN, Christian",Denmark,M,50-59M,00:54:43,465.0
-2,491,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,00:55:31,491.0
-2,565,1020,"SOHL, Ralf",Denmark,M,40-49M,00:59:00,565.0
-2,863,48,"SANDERHOFF, Pernille",Denmark,F,45+F,DNF,DNF
-2,863,83,"HESSELBERG, Michael",Denmark,M,50-59M,DNF,DNF
-2,863,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,DNF,DNF
-2,863,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,DNF,DNF
-2,863,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,DNF,DNF
-3,6,37,"SØE, Johan",Denmark,M,16-19M,00:32:41,6.0
-3,15,135,"ANDERS, Boje",Denmark,M,40-49M,00:33:49,15.0
-3,24,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:34:50,24.0
-3,55,41,"VINTHER, Noah",Denmark,M,16-19M,00:37:15,55.0
-3,201,216,"THRANE, Kasper",Denmark,M,40-49M,00:45:14,201.0
-3,307,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,00:49:42,307.0
-3,345,277,"SVEJ, Martin",Denmark,M,50-59M,00:51:21,345.0
-3,547,736,"BØRGESEN, Christian",Denmark,M,50-59M,00:59:47,547.0
-3,644,1020,"SOHL, Ralf",Denmark,M,40-49M,01:03:55,644.0
-3,772,83,"HESSELBERG, Michael",Denmark,M,50-59M,01:14:34,772.0
-3,793,48,"SANDERHOFF, Pernille",Denmark,F,45+F,01:20:59,793.0
-3,829,382,"RØGILD, Brian",Denmark,M,50-59M,DNF,DNF
-3,829,262,"SEHESTED, Thomas",Denmark,M,40-49M,DNS,DNS
-3,829,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,DNS,DNS
-3,829,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,DNS,DNS
-3,829,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,DNS,DNS
-4,11,37,"SØE, Johan",Denmark,M,16-19M,00:36:41,11.0
-4,30,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:39:20,30.0
-4,37,41,"VINTHER, Noah",Denmark,M,16-19M,00:40:18,37.0
-4,124,736,"BØRGESEN, Christian",Denmark,M,50-59M,00:48:30,124.0
-4,237,216,"THRANE, Kasper",Denmark,M,40-49M,00:57:07,237.0
-4,320,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,01:01:27,320.0
-4,335,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,01:02:21,335.0
-4,490,277,"SVEJ, Martin",Denmark,M,50-59M,01:11:26,490.0
-4,595,1020,"SOHL, Ralf",Denmark,M,40-49M,01:17:38,595.0
-4,751,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,01:33:55,751.0
-4,818,48,"SANDERHOFF, Pernille",Denmark,F,45+F,DNF,DNF
-4,818,83,"HESSELBERG, Michael",Denmark,M,50-59M,DNF,DNF
-4,818,135,"ANDERS, Boje",Denmark,M,40-49M,DNF,DNF
-4,818,382,"RØGILD, Brian",Denmark,M,50-59M,DNF,DNF
-4,818,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,DNF,DNF
-4,818,262,"SEHESTED, Thomas",Denmark,M,40-49M,DNS,DNS
-5,16,37,"SØE, Johan",Denmark,M,16-19M,,15.0
-5,41,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,,40.0
-5,51,41,"VINTHER, Noah",Denmark,M,16-19M,,50.0
-5,171,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,,170.0
-5,192,216,"THRANE, Kasper",Denmark,M,40-49M,,189.0
-5,406,277,"SVEJ, Martin",Denmark,M,50-59M,,402.0
-5,561,1020,"SOHL, Ralf",Denmark,M,40-49M,,556.0
-5,652,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,,645.0
-5,732,83,"HESSELBERG, Michael",Denmark,M,50-59M,,1249.0
-5,732,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,,1249.0
-5,732,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,,1249.0
-5,732,736,"BØRGESEN, Christian",Denmark,M,50-59M,,1249.0
-5,940,48,"SANDERHOFF, Pernille",Denmark,F,45+F,,1250.0
-5,940,135,"ANDERS, Boje",Denmark,M,40-49M,,1250.0
-5,940,262,"SEHESTED, Thomas",Denmark,M,40-49M,,1250.0
-5,940,382,"RØGILD, Brian",Denmark,M,50-59M,,1250.0
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,8,37,"SØE, Johan",Denmark,M,16-19M,00:33:56,8.0,
+1,18,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:35:57,18.0,
+1,43,262,"SEHESTED, Thomas",Denmark,M,40-49M,00:38:30,43.0,
+1,52,41,"VINTHER, Noah",Denmark,M,16-19M,00:39:22,52.0,
+1,80,382,"RØGILD, Brian",Denmark,M,50-59M,00:42:33,80.0,
+1,219,277,"SVEJ, Martin",Denmark,M,50-59M,00:51:41,219.0,
+1,507,736,"BØRGESEN, Christian",Denmark,M,50-59M,01:10:31,507.0,
+1,517,1020,"SOHL, Ralf",Denmark,M,40-49M,01:11:39,517.0,
+1,539,216,"THRANE, Kasper",Denmark,M,40-49M,01:13:43,539.0,
+1,580,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,01:18:52,580.0,
+1,679,48,"SANDERHOFF, Pernille",Denmark,F,45+F,,,DNF
+1,679,83,"HESSELBERG, Michael",Denmark,M,50-59M,,,DNF
+1,679,135,"ANDERS, Boje",Denmark,M,40-49M,,,DNF
+1,679,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,,,DNF
+1,679,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,,,DNF
+1,679,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,,,DNF
+2,12,37,"SØE, Johan",Denmark,M,16-19M,00:33:45,12.0,
+2,22,135,"ANDERS, Boje",Denmark,M,40-49M,00:34:49,22.0,
+2,24,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:35:26,24.0,
+2,39,262,"SEHESTED, Thomas",Denmark,M,40-49M,00:36:32,39.0,
+2,59,41,"VINTHER, Noah",Denmark,M,16-19M,00:38:22,59.0,
+2,109,382,"RØGILD, Brian",Denmark,M,50-59M,00:41:34,109.0,
+2,201,277,"SVEJ, Martin",Denmark,M,50-59M,00:45:39,201.0,
+2,249,216,"THRANE, Kasper",Denmark,M,40-49M,00:47:20,249.0,
+2,465,736,"BØRGESEN, Christian",Denmark,M,50-59M,00:54:43,465.0,
+2,491,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,00:55:31,491.0,
+2,565,1020,"SOHL, Ralf",Denmark,M,40-49M,00:59:00,565.0,
+2,863,48,"SANDERHOFF, Pernille",Denmark,F,45+F,,,DNF
+2,863,83,"HESSELBERG, Michael",Denmark,M,50-59M,,,DNF
+2,863,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,,,DNF
+2,863,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,,,DNF
+2,863,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,,,DNF
+3,6,37,"SØE, Johan",Denmark,M,16-19M,00:32:41,6.0,
+3,15,135,"ANDERS, Boje",Denmark,M,40-49M,00:33:49,15.0,
+3,24,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:34:50,24.0,
+3,55,41,"VINTHER, Noah",Denmark,M,16-19M,00:37:15,55.0,
+3,201,216,"THRANE, Kasper",Denmark,M,40-49M,00:45:14,201.0,
+3,307,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,00:49:42,307.0,
+3,345,277,"SVEJ, Martin",Denmark,M,50-59M,00:51:21,345.0,
+3,547,736,"BØRGESEN, Christian",Denmark,M,50-59M,00:59:47,547.0,
+3,644,1020,"SOHL, Ralf",Denmark,M,40-49M,01:03:55,644.0,
+3,772,83,"HESSELBERG, Michael",Denmark,M,50-59M,01:14:34,772.0,
+3,793,48,"SANDERHOFF, Pernille",Denmark,F,45+F,01:20:59,793.0,
+3,829,382,"RØGILD, Brian",Denmark,M,50-59M,,,DNF
+3,829,262,"SEHESTED, Thomas",Denmark,M,40-49M,,,DNS
+3,829,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,,,DNS
+3,829,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,,,DNS
+3,829,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,,,DNS
+4,11,37,"SØE, Johan",Denmark,M,16-19M,00:36:41,11.0,
+4,30,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,00:39:20,30.0,
+4,37,41,"VINTHER, Noah",Denmark,M,16-19M,00:40:18,37.0,
+4,124,736,"BØRGESEN, Christian",Denmark,M,50-59M,00:48:30,124.0,
+4,237,216,"THRANE, Kasper",Denmark,M,40-49M,00:57:07,237.0,
+4,320,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,01:01:27,320.0,
+4,335,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,01:02:21,335.0,
+4,490,277,"SVEJ, Martin",Denmark,M,50-59M,01:11:26,490.0,
+4,595,1020,"SOHL, Ralf",Denmark,M,40-49M,01:17:38,595.0,
+4,751,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,01:33:55,751.0,
+4,818,48,"SANDERHOFF, Pernille",Denmark,F,45+F,,,DNF
+4,818,83,"HESSELBERG, Michael",Denmark,M,50-59M,,,DNF
+4,818,135,"ANDERS, Boje",Denmark,M,40-49M,,,DNF
+4,818,382,"RØGILD, Brian",Denmark,M,50-59M,,,DNF
+4,818,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,,,DNF
+4,818,262,"SEHESTED, Thomas",Denmark,M,40-49M,,,DNS
+5,16,37,"SØE, Johan",Denmark,M,16-19M,,15.0,
+5,41,288,"JUUL LARSEN, Kasper",Denmark,M,40-49M,,40.0,
+5,51,41,"VINTHER, Noah",Denmark,M,16-19M,,50.0,
+5,171,329,"LAMHAUGE ANKER, Martin",Denmark,M,50-59M,,170.0,
+5,192,216,"THRANE, Kasper",Denmark,M,40-49M,,189.0,
+5,406,277,"SVEJ, Martin",Denmark,M,50-59M,,402.0,
+5,561,1020,"SOHL, Ralf",Denmark,M,40-49M,,556.0,
+5,652,590,"FREDSKILDE, Carsten",Denmark,M,50-59M,,645.0,
+5,732,83,"HESSELBERG, Michael",Denmark,M,50-59M,,1249.0,
+5,732,588,"JUUL, Gustav Wilhelm",Denmark,M,50-59M,,1249.0,
+5,732,591,"ENGELBRECHT, Hans Christian",Denmark,M,50-59M,,1249.0,
+5,732,736,"BØRGESEN, Christian",Denmark,M,50-59M,,1249.0,
+5,940,48,"SANDERHOFF, Pernille",Denmark,F,45+F,,1250.0,
+5,940,135,"ANDERS, Boje",Denmark,M,40-49M,,1250.0,
+5,940,262,"SEHESTED, Thomas",Denmark,M,40-49M,,1250.0,
+5,940,382,"RØGILD, Brian",Denmark,M,50-59M,,1250.0,

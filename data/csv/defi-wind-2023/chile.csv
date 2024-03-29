@@ -1,5 +1,5 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed
-1,135,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:44:45
-2,228,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:44:43
-3,266,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:45:49
-4,170,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:43:04
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,Class,HelmAgeGroup,Elapsed,Code
+1,135,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:44:45,
+2,228,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:44:43,
+3,266,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:45:49,
+4,170,364,"HERMAN, EDUARDO",Chile,M,Fin,20-39M,00:43:04,

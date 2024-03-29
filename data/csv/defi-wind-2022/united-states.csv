@@ -1,11 +1,11 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
-1,328,1098,"SPINDLER, Luca",United States,M,20-29M,00:57:32,328.0
-1,679,1161,"WILLIAMS, Chris",United States,M,40-49M,DNF,DNF
-2,112,1098,"SPINDLER, Luca",United States,M,20-29M,00:41:46,112.0
-2,863,1161,"WILLIAMS, Chris",United States,M,40-49M,DNF,DNF
-3,118,1098,"SPINDLER, Luca",United States,M,20-29M,00:41:01,118.0
-3,829,1161,"WILLIAMS, Chris",United States,M,40-49M,DNS,DNS
-4,76,1098,"SPINDLER, Luca",United States,M,20-29M,00:43:37,76.0
-4,818,1161,"WILLIAMS, Chris",United States,M,40-49M,DNF,DNF
-5,92,1098,"SPINDLER, Luca",United States,M,20-29M,,91.0
-5,940,1161,"WILLIAMS, Chris",United States,M,40-49M,,1250.0
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,328,1098,"SPINDLER, Luca",United States,M,20-29M,00:57:32,328.0,
+1,679,1161,"WILLIAMS, Chris",United States,M,40-49M,,,DNF
+2,112,1098,"SPINDLER, Luca",United States,M,20-29M,00:41:46,112.0,
+2,863,1161,"WILLIAMS, Chris",United States,M,40-49M,,,DNF
+3,118,1098,"SPINDLER, Luca",United States,M,20-29M,00:41:01,118.0,
+3,829,1161,"WILLIAMS, Chris",United States,M,40-49M,,,DNS
+4,76,1098,"SPINDLER, Luca",United States,M,20-29M,00:43:37,76.0,
+4,818,1161,"WILLIAMS, Chris",United States,M,40-49M,,,DNF
+5,92,1098,"SPINDLER, Luca",United States,M,20-29M,,91.0,
+5,940,1161,"WILLIAMS, Chris",United States,M,40-49M,,1250.0,

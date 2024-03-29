@@ -1,11 +1,11 @@
-RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points
-1,679,1477,"ISAAC, Mateus",Brazil,M,20-29M,DNF,DNF
-1,679,663,"HOLANDA, Marcelo",Brazil,M,50-59M,DNS,DNS
-2,85,1477,"ISAAC, Mateus",Brazil,M,20-29M,00:39:50,85.0
-2,863,663,"HOLANDA, Marcelo",Brazil,M,50-59M,DNS,DNS
-3,829,663,"HOLANDA, Marcelo",Brazil,M,50-59M,DNS,DNS
-3,829,1477,"ISAAC, Mateus",Brazil,M,20-29M,DNS,DNS
-4,818,663,"HOLANDA, Marcelo",Brazil,M,50-59M,DNS,DNS
-4,818,1477,"ISAAC, Mateus",Brazil,M,20-29M,DNS,DNS
-5,940,663,"HOLANDA, Marcelo",Brazil,M,50-59M,,1250.0
-5,940,1477,"ISAAC, Mateus",Brazil,M,20-29M,,1250.0
+RaceNo,Place,Tally,HelmName,Nat,HelmSex,HelmAgeGroup,Elapsed,Points,Code
+1,679,1477,"ISAAC, Mateus",Brazil,M,20-29M,,,DNF
+1,679,663,"HOLANDA, Marcelo",Brazil,M,50-59M,,,DNS
+2,85,1477,"ISAAC, Mateus",Brazil,M,20-29M,00:39:50,85.0,
+2,863,663,"HOLANDA, Marcelo",Brazil,M,50-59M,,,DNS
+3,829,663,"HOLANDA, Marcelo",Brazil,M,50-59M,,,DNS
+3,829,1477,"ISAAC, Mateus",Brazil,M,20-29M,,,DNS
+4,818,663,"HOLANDA, Marcelo",Brazil,M,50-59M,,,DNS
+4,818,1477,"ISAAC, Mateus",Brazil,M,20-29M,,,DNS
+5,940,663,"HOLANDA, Marcelo",Brazil,M,50-59M,,1250.0,
+5,940,1477,"ISAAC, Mateus",Brazil,M,20-29M,,1250.0,
