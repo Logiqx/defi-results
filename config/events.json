@@ -10,7 +10,8 @@
       "HelmSex": ["Sexe"],
       "HelmAgeGroup": ["Catégorie"],
       "Elapsed": ["TempsRun", "TempsRun1"],
-      "Points": ["PointsRun", "PointsRun1"]
+      "Points": ["PointsRun", "PointsRun1"],
+      "Code": []
     },
     "races": [
       {
@@ -46,7 +47,8 @@
       "HelmSex": ["Sexe"],
       "Class": ["Support"],
       "HelmAgeGroup": ["Catégorie"],
-      "Elapsed": ["TempsRun1", "TempsRun2", "TempsRun3", "TempsRun 4"]
+      "Elapsed": ["TempsRun1", "TempsRun2", "TempsRun3", "TempsRun 4"],
+      "Code": []
     },
     "races": [
       {
